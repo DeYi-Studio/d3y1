@@ -1,10 +1,20 @@
 exposé / téléchargé
 
+porte / fenêtre
+	gate (facture) 	/ windows
+	unique / multiple
+	fermé / ouvert
+	opaque / transparent
+	contrôle / effraction
+	identité / anonymat
+	institutionnel / personnel
+	objet / air & lumière
+	propriété /gratuité
+	autorité / liberté
 accroché / échangé
 vendu / donné
 public / communauté
 légitimation / indécision 
-porte / fenêtre
 spécifique / compatible
 importé / immergé
 signature / pseudo
