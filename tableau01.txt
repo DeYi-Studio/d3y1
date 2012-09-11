@@ -35,6 +35,7 @@ décoratif / jouable
 reproductible / duplicable
 transportable / transformable
 push / peer to peer
+déclaratif / interprétatif (?) 
 
 
  
